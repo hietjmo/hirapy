@@ -1,0 +1,13 @@
+Sumimasen.
+Anata wa *amerika*jin desu ka?
+Hai, watashi wa *amerika*jin desu.
+Nihongo ga wakarimasu ka?
+Sukoshi wakarimasu.
+*Eigo* ga wakarimasu ka?
+Iie, *eigo* ga wakarimasen.
+
+sumimasen	excuse me
+nihongo	japanese
+*eigo*	english
+wakarimasu	understand
+wakarimasen	don't understand
